@@ -1,0 +1,3 @@
+[submodule "spring-petclinic-clean"]
+	path = spring-petclinic-clean
+	url = https://github.com/basilioruan/spring-petclinic-clean
